@@ -1,0 +1,8 @@
+memberships:
+  message: "Welcome to memberships related docker APIs "
+  contactDetails:
+    name: "Giangbb - Developer"
+    email: "test@giangbb.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

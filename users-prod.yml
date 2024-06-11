@@ -1,0 +1,8 @@
+users:
+  message: "Hey, welcome to users related webhook APIs"
+  contactDetails:
+    name: "Giangbb - Product Owner"
+    email: "{cipher}50106b3295864a644aed002ea98ba7883acfb2375bdd7e5fa8b2662a3718e8d2"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
