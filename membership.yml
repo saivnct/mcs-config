@@ -1,4 +1,4 @@
-memberships:
+membership:
   message: "Welcome to memberships related docker APIs "
   contactDetails:
     name: "Giangbb - Developer"

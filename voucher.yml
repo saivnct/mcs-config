@@ -1,5 +1,5 @@
-vouchers:
-  message: "Welcome to vouchers related local APIs "
+voucher:
+  message: "Welcome to voucher related local APIs "
   contactDetails:
     name: "Giangbb - Developer"
     email: "test@giangbb.com"

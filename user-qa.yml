@@ -1,7 +1,7 @@
-memberships:
-  message: "Welcome to memberships related QA APIs "
+user:
+  message: "Welcome to user related QA APIs "
   contactDetails:
-    name: "Giangbb - QA Lead"
+    name: "Giangbb - QA Team"
     email: "qa@giangbb.com"
   onCallSupport:
     - (666) 265-3765

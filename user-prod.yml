@@ -1,7 +1,7 @@
-memberships:
-  message: "Hey, welcome to memberships related webhook APIs"
+user:
+  message: "Hey, welcome to user related webhook APIs"
   contactDetails:
-    name: "Giangbb - Product Owner"
+    name: "Giangbb - Product Team"
     email: "{cipher}50106b3295864a644aed002ea98ba7883acfb2375bdd7e5fa8b2662a3718e8d2"
   onCallSupport:
     - (453) 392-4829

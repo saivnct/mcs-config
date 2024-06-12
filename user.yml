@@ -1,5 +1,5 @@
-users:
-  message: "Welcome to users related docker APIs "
+user:
+  message: "Welcome to user related docker APIs "
   contactDetails:
     name: "Giangbb - Developer"
     email: "test@giangbb.com"

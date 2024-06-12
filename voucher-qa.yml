@@ -1,7 +1,7 @@
-users:
-  message: "Welcome to users related QA APIs "
+voucher:
+  message: "Welcome to voucher related QA APIs "
   contactDetails:
-    name: "Giangbb - QA Lead"
+    name: "Giangbb - QA Team"
     email: "qa@giangbb.com"
   onCallSupport:
     - (666) 265-3765
