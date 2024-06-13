@@ -1,8 +1,10 @@
-voucher:
-  message: "Welcome to voucher related local APIs "
-  contactDetails:
-    name: "Giangbb - Developer"
-    email: "test@giangbb.com"
-  onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+remote:
+  endpoint:
+    info:
+      url: http://localhost:8096
+    voucher:
+      url: http://localhost:8097
+    membership:
+      url: http://localhost:8098
+    user:
+      url: http://localhost:8099
