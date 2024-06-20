@@ -2,8 +2,8 @@ infosvc:
   message: "Welcome to my project"
   contactDetails:
     name: "Giangbb - Developer Team"
-    email: "giangbb@test.com"
+    email: "{cipher}50106b3295864a644aed002ea98ba7883acfb2375bdd7e5fa8b2662a3718e8d2"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
-  debugThreadHang: 10
+  debugThreadHang: 0
